@@ -1,0 +1,9 @@
+{
+	"meta": {
+		"title": "commandbox-ssg",
+		"description": "commandbox static site generator",
+		"author": "ssg",
+		"url": "https://example.com"
+	},
+	"passthru": []
+}
