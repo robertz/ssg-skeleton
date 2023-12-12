@@ -6,5 +6,7 @@
 		"url": "https://example.com"
 	},
 	"outputDir": "_site",
-	"passthru": []
+	"passthru": [
+		"/assets"
+	]
 }
