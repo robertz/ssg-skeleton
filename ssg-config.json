@@ -5,7 +5,7 @@
 		"author": "ssg",
 		"url": "https://example.com"
 	},
-	"outputDir": "_site",
+	"outputDir": "/_site",
 	"passthru": [
 		"/assets"
 	]
