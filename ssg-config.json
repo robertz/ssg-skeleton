@@ -8,5 +8,8 @@
 	"outputDir": "/_site",
 	"passthru": [
 		"/assets"
+	],
+	"ignore": [
+		"/_includes"
 	]
 }
