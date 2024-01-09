@@ -1,10 +1,4 @@
 {
-	"meta": {
-		"title": "commandbox-ssg",
-		"description": "commandbox static site generator",
-		"author": "ssg",
-		"url": "https://example.com"
-	},
 	"outputDir": "/_site",
 	"passthru": [
 		"/assets"

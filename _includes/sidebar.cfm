@@ -2,7 +2,7 @@
 <div>
 	<div class="shadow rounded p-2 mb-3">
 		<p>
-			<h6>- Jasper</h6>
+			<h6>- #prc.site.author#</h6>
 			<small>
 				This would be a good place to put a few blurbs about yourself.
 			</small>
