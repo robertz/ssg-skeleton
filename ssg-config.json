@@ -1,9 +1,8 @@
 {
-	"outputDir": "/_site",
+	"outputDir": "_site",
 	"passthru": [
-		"/assets"
+		"assets"
 	],
 	"ignore": [
-		"/_includes"
 	]
 }
